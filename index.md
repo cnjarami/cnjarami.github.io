@@ -12,6 +12,7 @@
 	img {
 		padding: 5px;
 		width: 150px;
+		height: 150px;
 	}
 </style>
  <head>
