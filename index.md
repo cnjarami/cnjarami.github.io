@@ -9,6 +9,10 @@
 	}
 	a {padding: 10px;}
 	h1, h3, th, td, a, p {font-family: Calibri;}
+	img {
+		padding: 5px;
+		width: 150px;
+	}
 </style>
  <head>
 	<title>Caleb Jaramillo</title>
