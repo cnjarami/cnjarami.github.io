@@ -15,6 +15,9 @@
  </head>
  <body style="background-color: rgba(51, 153, 255, 0)">
  	<h1>Caleb Jaramillo</h1>
+	<a href="thumbnail.jpg">
+ 		<img src="thumbnail.jpg">
+ 	</a>
  	<h3>Contact Information</h3>
  	<a href="mailto:cnjarami@asu.edu">cnjarami@asu.edu</a>
  	<a href="tel:+15054532319">(505)453-2319</a>
